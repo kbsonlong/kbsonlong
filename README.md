@@ -15,9 +15,8 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+![Metrics](https://metrics.lecoq.io/kbsonlong?template=classic&discussions=1&base.indepth=false&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FShanghai)
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
   
 
 <br/>  
