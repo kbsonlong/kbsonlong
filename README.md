@@ -1,4 +1,4 @@
-### <div align="center">I'm kbsonlong, a full-time full-stack freelance devops 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm kbsonlong, a full-time full-stack freelance devops 👨‍💻 working   2013 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github](https://github.com/kbsonlong)  
