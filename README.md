@@ -102,7 +102,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kbsonlong&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=kbsonlong" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=kbsonlong" height="150" alt="languages graph"  />
+</div>
+
 
 <br/>  
 
@@ -112,6 +116,11 @@
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->
 <br />
+
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/kbsonlong/kbsonlong/blob/output/snake.svg" alt="Snake animation" />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
