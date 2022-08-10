@@ -120,7 +120,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/kbsonlong/kbsonlong/blob/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
+![snake](./assets/github-contribution-grid-snake.svg)
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
