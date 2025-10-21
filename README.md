@@ -1,7 +1,7 @@
 ### <div align="center">I'm [kbsonlong](https://github.com/kbsonlong), a full-time full-stack freelance SRE 👨‍💻  🚀</div>  
   
 
-- 🔭 I’m currently working on [Joyy](https://www.joyy.com/index.html)
+- 🔭 
   
 
 - 🌱 I’m currently learning Vue、Golang and Istio.
