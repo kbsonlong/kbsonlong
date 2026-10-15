@@ -4,7 +4,7 @@
 - 🔭 
   
 
-- 🌱 I’m currently learning Vue、Golang and Istio.
+- 🌱 
   
 
 - ❓  
