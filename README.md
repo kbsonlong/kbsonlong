@@ -85,10 +85,6 @@
 
 <br/>  
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=go-kratos/kratos,gin-gonic/gin,beego/beego,zeromicro/go-zero&type=Date)](https://star-history.com/#go-kratos/kratos&gin-gonic/gin&beego/beego&zeromicro/go-zero&Date)
-
 
 <br/>  
 ## Github Stats  
